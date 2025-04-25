@@ -1,0 +1,2 @@
+# jellyfin_tg_bot
+一个可以管理你jellyfin的TGBOT

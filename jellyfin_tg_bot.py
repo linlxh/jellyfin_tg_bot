@@ -11,10 +11,10 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import nest_asyncio
 
 # Configuration
-TOKEN = '7491740941:AAEx2hNxSuVLdgeHYJo9g7u5i1eKR2_AcGA'
-JELLYFIN_URL = 'http://143.110.155.41:8097'
-ADMIN_API_KEY = 'd01f07969a404dec82e53ffc72147253'
-ADMIN_IDS = {1236259428}
+TOKEN = 'tgBOTTOKEN'
+JELLYFIN_URL = 'JELLYFIN地址'
+ADMIN_API_KEY = 'JELLYFIN的apt'
+ADMIN_IDS = {tg管理员的id}
 DB_PATH = 'bot_data.db'
 
 # 初始化日志
